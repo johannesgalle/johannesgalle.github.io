@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 
-A copy of my CV can be found <a href="https://johannesgalle.github.io/GalleCVJan.pdf" target="_blank">here</a>
+A copy of my CV can be found <a href="https://[https://github.com/johannesgalle/johannesgalle.github.io/tree/master/files/GalleCVJan.pdf" target="_blank">here</a>
 
