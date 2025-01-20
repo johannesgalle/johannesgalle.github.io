@@ -28,7 +28,7 @@ author:
   location         : "Berlin, Germany"
   employer         : "PIK - Climate Economics"
   uri              : # URL
-  email            : "jgalle@pil-potsdam.de" 
+  email            : "jgalle@pik-potsdam.de" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -44,12 +44,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "johannesgalle"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "jojoga" # Replace this with you Bluesky username
+  bluesky          : "jojoga.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
